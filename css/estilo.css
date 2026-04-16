@@ -91,11 +91,11 @@ table {
   width: 100%;
   border-collapse: collapse;
   margin: 20px 0;
-  background-color: #ffffff;
+  background-color: #692929;
   border: 2px solid #661d5a;
 }
 table thead {
-  background-color: #ffffff;
+  background-color: #793b3b;
   border-bottom: 2px solid #e26480;
 }
 table th {
@@ -110,6 +110,6 @@ table td {
   border-bottom: 1px solid #8f58c4;
 }
 table tbody tr:hover {
-  background-color: #ffffff;
+  background-color: #692929;
   color: #a55454;
 }
