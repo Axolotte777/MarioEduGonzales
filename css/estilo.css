@@ -52,7 +52,7 @@ section{
 }
 article{
     flex: 2;
-    background-color: white;
+    background-color: rgb(115, 83, 151);
     padding: 15px;
     border-radius: 8px;
     box-shadow: 0 2px 5px #022442;
@@ -67,7 +67,7 @@ article img{
 aside{
     justify-content: center;
     flex: 1;
-    background-color: rgb(235, 216, 110);
+    background-color: rgb(255, 255, 255);
     padding: 15px;
     border-radius: 8px;
     box-shadow: 0 2px 5px #022442;
