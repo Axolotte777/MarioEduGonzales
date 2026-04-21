@@ -1,17 +1,17 @@
 // Console.log nos sirve para depurar y probar nuestras salidas
 console.log("Hola mundo desde JavaScript");
 //alert nos sirve para mostrarle un alert al usuario
-alert("Gente miren una alerta xdxdddd");
+alert("Virus incoming");
 
 function cambiarCarita(){
     document.getElementById("carita").src="images/sad.jpg";
-    alert("XQ estas triste??");
+    alert("Uma triste??");
     
     
 }
 function feliz(){
     document.getElementById("carita").src="images/happy.jpg";
-    document.getElementById("TituloJS").textContent="Ejemplo de Caritas";
+    document.getElementById("TituloJS").textContent="Ejemplo de emoción";
 }
 
 function nombresNav() {
