@@ -5,7 +5,7 @@ alert("Virus incoming");
 
 function cambiarCarita(){
     document.getElementById("carita").src="images/sad.jpg";
-    alert("Uma triste??");
+    alert("Uma triste...??");
     
     
 }
