@@ -15,11 +15,11 @@ function feliz(){
 }
 
 function nombresNav() {
-    document.getElementById("m1").textContent = "Home";
-    document.getElementById("m2").textContent = "Lists";
-    document.getElementById("m3").textContent = "Tables";
-    document.getElementById("m4").textContent = "JS Examples";
-    document.getElementById("m5").textContent = "JS Homework";
-    document.getElementById("m6").textContent = "Forms";
+    document.getElementById("m1").textContent = "Hogar";
+    document.getElementById("m2").textContent = "Listas";
+    document.getElementById("m3").textContent = "Tablas";
+    document.getElementById("m4").textContent = "Js ejemlos";
+    document.getElementById("m5").textContent = "Js tarea";
+    document.getElementById("m6").textContent = "quinta pagina";
     document.getElementById("m7").textContent = "Personal";
 }
