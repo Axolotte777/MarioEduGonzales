@@ -25,7 +25,7 @@ function cambiarTitulo(){
     document.getElementById("titulo").textContent="Practicando JS";
     document.getElementById("titulo").style.color="#5a4581";
     document.getElementById("logoSenati").src="images/senati2.jpg";
-    document.getElementById("encabezado").style.background="#b399d1";
+    document.getElementById("encabezado").style.backgroundColor="#b399d1";
 }
 function suma(){
     let num1 = 6;
