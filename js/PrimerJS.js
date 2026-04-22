@@ -23,9 +23,9 @@ function nombresNav() {
 }
 function cambiarTitulo(){
     document.getElementById("titulo").textContent="Practicando JS";
-    document.getElementById("titulo").style.color="#5a4581" 
-    document.getElementById("logoSenati").src="images/senati3.png";
-    document.getElementById("encabezado").style.background="#b399d1"
+    document.getElementById("titulo").style.color="#5a4581";
+    document.getElementById("logoSenati").src="images/senati2.png";
+    document.getElementById("encabezado").style.background="#b399d1";
 }
 function suma(){
     let num1 = 6;
