@@ -71,3 +71,4 @@ function mambodance(){
 function mambo(){
     document.getElementById("mambo").src="images/mambo.jpg";
     document.getElementById("TituloJS").textContent="Dance Dance";
+}
