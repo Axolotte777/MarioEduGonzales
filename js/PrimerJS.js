@@ -33,3 +33,7 @@ function suma(){
     let suma = num1+num2;
     alert("la suma es de" +suma);
 }
+function eje01(){
+    let p1 = 10;
+    
+}
