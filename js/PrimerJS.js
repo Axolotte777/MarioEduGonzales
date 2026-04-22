@@ -73,3 +73,12 @@ function mambo(){
     document.getElementById("TituloJS").textContent="Dance Dance";
     alert("Mambo ");
 }
+function dosD(){
+    document.getElementById("2d").src="images/2d.jpg";
+    alert("2D Terraria");
+}
+function tresD(){
+    document.getElementById("3d").src="images/3d.jpg";
+    document.getElementById("2D Y 3D").textContent="Mc y Trr";
+    alert("3D Minecraft");
+}
