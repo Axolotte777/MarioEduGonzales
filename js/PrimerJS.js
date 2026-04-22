@@ -51,3 +51,9 @@ function eje01(){
     alert("El total a Pagar es de: S/."+total);
 
 }
+function eje02(){
+    let amigos = 10;
+    let total = 100;
+    let cuota = total/amigos;
+    alert("Son "+amigos+" amigos"+ " y la cuota del total S/."+total+" es de : S/."+cuota);
+}
