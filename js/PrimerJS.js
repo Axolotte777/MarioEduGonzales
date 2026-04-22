@@ -64,3 +64,10 @@ function eje09(){
     Stotal = (10+distanciaR*3)
     alert("El total seria de: S/."+Stotal)
 }
+function mambodance(){
+    document.getElementById("mambo").src="mambodance.gif";
+    alert("Mambo Dance");
+}
+function mambo(){
+    document.getElementById("mambo").src="images/mambo.jpg";
+    document.getElementById("TituloJS").textContent="Dance Dance";
