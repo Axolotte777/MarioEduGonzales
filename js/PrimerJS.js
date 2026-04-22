@@ -65,7 +65,7 @@ function eje09(){
     alert("El total seria de: S/."+Stotal)
 }
 function mambodance(){
-    document.getElementById("mambo").src="mambodance.gif";
+    document.getElementById("mambo").src="images/mambodance.gif";
     alert("Mambo Dance");
 }
 function mambo(){
