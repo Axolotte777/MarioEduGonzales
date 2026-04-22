@@ -57,3 +57,10 @@ function eje02(){
     let cuota = total/amigos;
     alert("Son "+amigos+" amigos"+ " y la cuota del total S/."+total+" es de : S/."+cuota);
 }
+function eje09(){
+    let distanciaR =70
+    let tarifaI = 10
+    let tarifaporKM = 3
+    Stotal = (10+distanciaR*3)
+    alert("El total seria de: S/."+Stotal)
+}
