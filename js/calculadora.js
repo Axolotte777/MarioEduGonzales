@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", function(){
                 res = nume1*nume2;
                 break;
             case "div":
-
+                res = nume1/nume2;
                 break;
             default:
                 break;
