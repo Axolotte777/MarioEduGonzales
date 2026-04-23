@@ -82,3 +82,12 @@ function tresD(){
     document.getElementById("2D y 3D").textContent="Mc y Trr";
     alert("3D Minecraft");
 }
+function fondo() {
+  document.body.style.backgroundColor = "gray";
+  alert("fondo cambiado")
+}
+
+function texto() {
+  document.body.style.color = "white";
+  alert("texto cambiando")
+}
