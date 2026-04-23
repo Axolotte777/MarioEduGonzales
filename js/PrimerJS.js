@@ -79,6 +79,6 @@ function dosD(){
 }
 function tresD(){
     document.getElementById("2d").src="images/3d.jpg";
-    document.getElementById("2D Y 3D").textContent="Mc y Trr";
+    document.getElementById("2D Y 3D").textContent="Mc y Trra";
     alert("3D Minecraft");
 }
