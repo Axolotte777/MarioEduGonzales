@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", function(){
                 break;
             case "div":
                 if (nume2 === 0) {
-                resultado.textContent = "Resultado 0";
+                resultado.textContent = "No se puede dividir entre 0";
                 return;
             }
             res = nume1 / nume2;
